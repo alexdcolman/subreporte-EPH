@@ -2,6 +2,16 @@
 
 Este proyecto analiza el subreporte y no reporte de ingresos en los hogares encuestados por la Encuesta Permanente de Hogares (EPH, INDEC, Argentina) durante los cuatro trimestres de 2024. A través de técnicas de aprendizaje automático y ajustes basados en fuentes administrativas (SIPA/ANSES), se busca evaluar la precisión de la medición de ingresos y sus implicancias sobre los indicadores oficiales de pobreza en la Argentina.
 
+## Autores
+
+Este proyecto fue desarrollado por:
+
+- **Alex Colman** – Diseño metodológico, modelado y análisis
+- **Alejo Gárdenes** – Diseño metodológico, modelado y análisis
+
+Para dudas o colaboraciones, podés contactarnos vía GitHub o correo:
+alexdcolman@gmail.com | alejomgarderes@gmail.com
+
 ## Objetivos
 
 - Detectar y caracterizar casos de subreporte y no reporte de ingresos.
