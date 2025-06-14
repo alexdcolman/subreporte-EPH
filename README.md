@@ -102,11 +102,11 @@ pip install -r requirements.txt
     Abrí los notebooks en JupyterLab y ejecutalos en orden.
 ```
 
-Recursos interactivos
+## Recursos interactivos
 
 [    Versión interactiva vía Binder](https://mybinder.org/v2/gh/tu_usuario/subreporte-ingresos-EPH/main)
 
-Licencia
+## Licencia
 
 Este proyecto se publica bajo la licencia MIT. Podés reutilizar y modificar el código citando adecuadamente.
 
