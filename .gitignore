@@ -1,0 +1,28 @@
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Checkpoints automáticos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de entorno virtual
+.env
+.venv/
+env/
+venv/
+
+# Configuración local de editores
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de datos temporales o pesados
+data/raw/
+*.zip
+*.tar.gz
+
+# Archivos de logs u outputs temporales
+*.log
+*.bak
