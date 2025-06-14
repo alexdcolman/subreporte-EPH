@@ -98,9 +98,10 @@ cd subreporte-ingresos-EPH
 
 ```bash
 pip install -r requirements.txt
-
-    Abrí los notebooks en JupyterLab y ejecutalos en orden.
 ```
+
+3. Abrí los notebooks en JupyterLab y ejecutalos en orden.
+
 
 ## Recursos interactivos
 
