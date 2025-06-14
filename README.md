@@ -43,9 +43,9 @@ Esto indica una escasa correspondencia entre clases reales y clusters emergentes
 |   1     |  33.7%  |  47.1%  |  32.6%  |
 |   2     |  25.2%  |  19.2%  |  18.9%  |
 
-![Distribución Clases por Cluster](https://github.com/alexdcolman/subreporte-EPH/blob/main/tabla_clusters.png)  
-![PCA Clusters](https://github.com/alexdcolman/subreporte-EPH/blob/main/pca_clusters.png)  
-![Dendrograma](https://github.com/alexdcolman/subreporte-EPH/blob/main/dendrograma.png)
+![Distribución Clases por Cluster](https://github.com/alexdcolman/subreporte-EPH/blob/img/tabla_clusters.png)  
+![PCA Clusters](https://github.com/alexdcolman/subreporte-EPH/blob/img/pca_clusters.png)  
+![Dendrograma](https://github.com/alexdcolman/subreporte-EPH/blob/img/dendrograma.png)
 
 ---
 
@@ -60,7 +60,7 @@ Se compararon los modelos bajo dos esquemas: entrenamiento sobre todo el año vs
 | Random Forest  | Aglomerado total  | 58.2%    | 0.535    | –       |
 | XGBoost        | Aglomerado total  | 59.1%    | 0.540    | 0.753   |
   
-![Comparación Métricas](https://github.com/alexdcolman/subreporte-EPH/blob/main/metrics_rf_xgb.png)
+![Comparación Métricas](https://github.com/alexdcolman/subreporte-EPH/blob/img/metrics_rf_xgb.png)
 
 ---
 
@@ -73,8 +73,8 @@ Las variables con mayor importancia para ambos modelos incluyen:
 - `IX_MAYEQ10`, `IX_MEN10`
 - Variables socioeconómicas específicas: `V1`, `V2`, `II8`, `IV2`
   
-![Importancia de Variables](https://github.com/alexdcolman/subreporte-EPH/blob/main/feature_importance2.png)
-![Importancia de Variables](https://github.com/alexdcolman/subreporte-EPH/blob/main/feature_importance.png)
+![Importancia de Variables](https://github.com/alexdcolman/subreporte-EPH/blob/img/feature_importance2.png)
+![Importancia de Variables](https://github.com/alexdcolman/subreporte-EPH/blob/img/feature_importance.png)
 ---
 
 ### Conclusiones
@@ -98,9 +98,9 @@ cd subreporte-ingresos-EPH
 
 ```bash
 pip install -r requirements.txt
-
-    Abrí los notebooks en JupyterLab y ejecutalos en orden.
 ```
+3. Abrí los notebooks en JupyterLab y ejecutalos en orden.
+
 
 ## Recursos interactivos
 
