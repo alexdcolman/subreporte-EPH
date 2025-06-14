@@ -12,5 +12,3 @@ dependencies:
   - xgboost=2.1.4
   - imbalanced-learn=0.12.3
   - pip
-  - pip:
-      - some-pip-only-packages-if-needed
