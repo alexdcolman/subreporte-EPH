@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 ## Recursos interactivos
 
-[    Versión interactiva vía Binder](https://mybinder.org/v2/gh/tu_usuario/subreporte-ingresos-EPH/main)
+[    Versión interactiva vía Binder](https://hub.gesis.mybinder.org/user/alexdcolman-subreporte-eph-hmrmkccg/doc/tree/analisis_subreporte.ipynb)
 
 ## Licencia
 
