@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ## Recursos interactivos
 
-[    Versión interactiva vía Binder](https://hub.gesis.mybinder.org/user/alexdcolman-subreporte-eph-u8vtrmbd/doc/tree/analisis_subreporte.ipynb)
+[    Versión interactiva vía Binder](https://hub.gesis.mybinder.org/user/alexdcolman-subreporte-eph-lfbx9q1x/doc/tree/analisis_subreporte.ipynb)
 
 ## Licencia
 
