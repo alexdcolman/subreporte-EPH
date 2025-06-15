@@ -11,7 +11,7 @@ Este proyecto fue desarrollado por:
 
 Para dudas o colaboraciones, podés contactarnos vía GitHub o correo:
 
-    alexdcolman@gmail.com | alejomgarderes@gmail.com
+alexdcolman@gmail.com | alejomgarderes@gmail.com
 
 ## Objetivos
 
