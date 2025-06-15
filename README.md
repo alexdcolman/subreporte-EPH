@@ -6,8 +6,8 @@ Este proyecto analiza el subreporte y no reporte de ingresos en los hogares encu
 
 Este proyecto fue desarrollado por:
 
-- **Alex Colman [independent.academia.edu/AlexColman1](https://independent.academia.edu/AlexColman1) – Diseño metodológico, modelado y análisis**
-- **Alejo Gárdenes [linkedin.com/in/alejo-gardenes](https://www.linkedin.com/in/alejo-garderes/)** – Diseño metodológico, modelado y análisis
+- **Alex Colman** – Diseño metodológico, modelado y análisis
+- **Alejo Gárdenes** – Diseño metodológico, modelado y análisis
 
 Para dudas o colaboraciones, podés contactarnos vía GitHub o correo:
 
