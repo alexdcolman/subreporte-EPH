@@ -111,5 +111,8 @@ pip install -r requirements.txt
 
 Este proyecto se publica bajo la licencia MIT. Podés reutilizar y modificar el código citando adecuadamente.
 
-
 ---
+
+## Agradecimientos
+
+Este proyecto se benefició del acompañamiento y las observaciones de **Julián Ansaldo**, a quien agradecemos especialmente por su orientación y generosidad durante todo el proceso de trabajo.
